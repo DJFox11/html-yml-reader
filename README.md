@@ -1,6 +1,6 @@
 # html-yml-reader
 
-https://djfox11.github.io/html-yml-reader/
+https://djfox11.github.io/html-yml-reader/ \
 A simple `.YML` reader as a proof of concept for a project I am currently working on!
 
 ## Instructions
