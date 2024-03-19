@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#output {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    font-weight: 600;
+}
+
+.kingdom {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: calc(100% - 20px);
+    font-size: 1.2em;
+    position: relative;
+}
+
+.kingdom .image {
+    height: 200px;
+    width: 341px;
+    margin: auto;
+    margin-bottom: 5px;
+    background-size: cover;
+    background-position: center;
+}
+
+.kingdom .name {
+    margin-top: 5px;
+}
