@@ -1,0 +1,132 @@
+- AfterEndingScenario: 3
+  BalloonScenario: 5
+  ClearMainScenario: 2
+  MainQuestInfo: [0, 0, 0, 0, 0, 0]
+  MoonRockScenario: 4
+  Name: CapWorldHomeStage
+  ScenarioNum: 6
+  WorldName: Cap
+- AfterEndingScenario: 3
+  BalloonScenario: 6
+  ClearMainScenario: 7
+  MainQuestInfo: [0, 2, 2, 2, 2, 2, 2]
+  MoonRockScenario: 4
+  Name: WaterfallWorldHomeStage
+  ScenarioNum: 7
+  WorldName: Waterfall
+- AfterEndingScenario: 4
+  BalloonScenario: 6
+  ClearMainScenario: 3
+  MainQuestInfo: [0, 3, 4, 4, 4, 4, 4]
+  MoonRockScenario: 5
+  Name: SandWorldHomeStage
+  ScenarioNum: 7
+  WorldName: Sand
+- AfterEndingScenario: 4
+  BalloonScenario: 6
+  ClearMainScenario: 3
+  MainQuestInfo: [0, 2, 4, 4, 4, 4, 4]
+  MoonRockScenario: 5
+  Name: ForestWorldHomeStage
+  ScenarioNum: 7
+  WorldName: Forest
+- AfterEndingScenario: 3
+  BalloonScenario: 6
+  ClearMainScenario: 2
+  MainQuestInfo: [0, 1, 1, 1, 1, 1]
+  MoonRockScenario: 4
+  Name: LakeWorldHomeStage
+  ScenarioNum: 6
+  WorldName: Lake
+- AfterEndingScenario: 3
+  ClearMainScenario: 2
+  MainQuestInfo: [0, 1, 1, 1]
+  MoonRockScenario: 4
+  Name: CloudWorldHomeStage
+  ScenarioNum: 4
+  WorldName: Cloud
+- AfterEndingScenario: 3
+  BalloonScenario: 5
+  ClearMainScenario: 2
+  MainQuestInfo: [0, 0, 0, 0, 0, 0]
+  MoonRockScenario: 4
+  Name: ClashWorldHomeStage
+  ScenarioNum: 6
+  WorldName: Clash
+- AfterEndingScenario: 5
+  BalloonScenario: 6
+  ClearMainScenario: 4
+  MainQuestInfo: [0, 2, 7, 7, 7, 7, 8, 7, 7, 7, 8]
+  MoonRockScenario: 8
+  Name: CityWorldHomeStage
+  ScenarioNum: 11
+  WorldName: City
+- AfterEndingScenario: 3
+  BalloonScenario: 6
+  ClearMainScenario: 2
+  MainQuestInfo: [0, 2, 2, 2, 2, 2]
+  MoonRockScenario: 4
+  Name: SeaWorldHomeStage
+  ScenarioNum: 6
+  WorldName: Sea
+- AfterEndingScenario: 3
+  BalloonScenario: 5
+  ClearMainScenario: 2
+  MainQuestInfo: [0, 2, 2, 2, 2, 2]
+  MoonRockScenario: 4
+  Name: SnowWorldHomeStage
+  ScenarioNum: 6
+  WorldName: Snow
+- AfterEndingScenario: 7
+  BalloonScenario: 9
+  ClearMainScenario: 3
+  MainQuestInfo: [0, 3, 5, 5, 5, 5, 5, 5, 5, 0]
+  MoonRockScenario: 8
+  Name: LavaWorldHomeStage
+  ScenarioNum: 10
+  WorldName: Lava
+- AfterEndingScenario: 3
+  ClearMainScenario: 2
+  MainQuestInfo: [0, 0, 0, 0]
+  MoonRockScenario: 4
+  Name: BossRaidWorldHomeStage
+  ScenarioNum: 4
+  WorldName: Attack
+- AfterEndingScenario: 3
+  BalloonScenario: 5
+  ClearMainScenario: 2
+  MainQuestInfo: [0, 4, 4, 4, 4, 4]
+  MoonRockScenario: 4
+  Name: SkyWorldHomeStage
+  ScenarioNum: 6
+  WorldName: Sky
+- AfterEndingScenario: 2
+  BalloonScenario: 4
+  ClearMainScenario: 2
+  MainQuestInfo: [0, 1, 1, 1, 1]
+  MoonRockScenario: 3
+  Name: MoonWorldHomeStage
+  ScenarioNum: 5
+  WorldName: Moon
+- AfterEndingScenario: 2
+  BalloonScenario: 5
+  ClearMainScenario: 1
+  MainQuestInfo: [0, 0, 0, 0, 0]
+  MoonRockScenario: 9
+  Name: PeachWorldHomeStage
+  ScenarioNum: 5
+  WorldName: Peach
+- AfterEndingScenario: 2
+  ClearMainScenario: 2
+  MainQuestInfo: [0, 1]
+  MoonRockScenario: 9
+  Name: Special1WorldHomeStage
+  ScenarioNum: 2
+  WorldName: Special1
+- AfterEndingScenario: 2
+  ClearMainScenario: 2
+  MainQuestInfo: [0, 1]
+  MoonRockScenario: 9
+  Name: Special2WorldHomeStage
+  ScenarioNum: 2
+  WorldName: Special2
